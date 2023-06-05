@@ -1,0 +1,9 @@
+## 0.0.1
+
+- Initial release of the Bitcoin Icons Flutter Package.
+
+In this release:
+- Provides a comprehensive collection of Bitcoin icons.
+- Includes both filled and outline versions of the icons.
+- Allows developers to easily integrate Bitcoin icons into their Flutter applications.
+- Icons are free to use and open-source.
