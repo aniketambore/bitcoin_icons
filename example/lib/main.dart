@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:bitcoin_icons/bitcoin_icons.dart';
+import 'package:url_launcher/url_launcher_string.dart';
 
 Map<String, String> iconsMapping = {
   'address_book_outline': '0xe900',
@@ -294,16 +295,16 @@ class MyHomePage extends StatelessWidget {
           ),
           actions: [
             IconButton(
-              onPressed: () {},
+              onPressed: _onPressedGitHub,
               icon: const Icon(
-                BitcoinIcons.miner_outline,
+                BitcoinIcons.code,
                 size: 34,
               ),
             ),
             TextButton(
-              onPressed: () {},
+              onPressed: _onPressedPub,
               child: const Text(
-                'v0.0.1',
+                'v0.0.3',
                 style: TextStyle(color: Colors.white),
               ),
             ),
@@ -342,6 +343,16 @@ class MyHomePage extends StatelessWidget {
         ),
       ),
     );
+  }
+
+  /// Handle on pressed GitHub button
+  void _onPressedGitHub() {
+    launchUrlString('https://github.com/aniketambore/bitcoin_icons');
+  }
+
+  /// Handle on pressed Pub button
+  void _onPressedPub() {
+    launchUrlString('https://pub.dev/packages/bitcoin_icons');
   }
 }
 
