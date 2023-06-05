@@ -26,7 +26,7 @@ jobs:
       
       - name: Creating release build of web
         working-directory: example
-        run: flutter build web --release
+        run: flutter build web --release --no-tree-shake-icons
       
       - name: Pushing the release build
         working-directory: example/build/web
