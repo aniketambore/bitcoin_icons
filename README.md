@@ -1,12 +1,6 @@
-<div align="center">
-    <img src="README/icons_cover.png?raw=true" alt="Bitcoin Icons Flutter Package"/>
-</div>
+<p align="center"><img src="https://raw.githubusercontent.com/aniketambore/bitcoin_icons/main/README/icons_cover.png" alt="bitcoin_icons package" /></p>
 
-<div align="center">
-
-# [Bitcoin Icons Flutter Package](https://pub.dev/packages/bitcoin_icons)
-
-</div>
+<h1 align="center"><a href="https://pub.dev/packages/bitcoin_icons">Bitcoin Icons Flutter Package</a></h1>
 
 The **Bitcoin Icons Flutter** Package provides a comprehensive collection of icons specifically designed for Bitcoin applications. These icons are free to use and have been crafted by the Bitcoin design community. You can explore the complete set of icons at [bitcoinicons.com](https://bitcoinicons.com/) or [bitcoin_icons](https://aniketambore.github.io/bitcoin_icons/#/).
 
