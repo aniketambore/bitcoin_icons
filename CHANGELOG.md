@@ -1,3 +1,7 @@
+## 0.0.2
+
+- Updated README.md image rendering for better compatibility on pub.dev.
+
 ## 0.0.1
 
 - Initial release of the Bitcoin Icons Flutter Package.
