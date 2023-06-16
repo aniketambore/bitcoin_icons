@@ -6,7 +6,7 @@ repository: https://github.com/aniketambore/bitcoin_icons
 license: MIT
 
 environment:
-  sdk: '>=2.19.0 <3.0.0'
+  sdk: '>=2.19.0 <3.0.5'
   flutter: ">=1.17.0"
 
 dependencies:
