@@ -1,4 +1,4 @@
-## 0.0.3
+## 0.0.4
 
 - Updated allowed Dart version to include 3.0.5
  
