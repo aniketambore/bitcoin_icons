@@ -11,7 +11,7 @@ Add the following line to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  bitcoin_icons: ^0.0.1
+  bitcoin_icons: ^0.0.4
 ```
 
 Then run `flutter pub get` to fetch the package.

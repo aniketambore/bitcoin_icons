@@ -1,3 +1,7 @@
+## 0.0.4
+
+- Updated allowed Dart version to include 3.0.5
+ 
 ## 0.0.3
 
 - Updated README.md image rendering for better compatibility on pub.dev.
